@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UIButtonLevelLoad">
+			<method name="loadLevel"/>
+			<method name="loadLevel"/>
+			<method name="loadLevel"/>
+			<method name="loadLevel"/>
+		</type>
+	</assembly>
+</linker>
